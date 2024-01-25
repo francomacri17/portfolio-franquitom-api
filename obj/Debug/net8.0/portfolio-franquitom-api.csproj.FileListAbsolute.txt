@@ -31,3 +31,4 @@
 /Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/obj/Debug/net8.0/portfolio-franquitom-api.pdb
 /Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/obj/Debug/net8.0/portfolio-franquitom-api.genruntimeconfig.cache
 /Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/obj/Debug/net8.0/ref/portfolio-franquitom-api.dll
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/obj/Debug/net8.0/portfolio-franquitom-api.sourcelink.json

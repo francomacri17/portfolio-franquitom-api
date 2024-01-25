@@ -1,0 +1,12 @@
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/portfolio-franquitom-api
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/appsettings.json
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/portfolio-franquitom-api.dll
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/portfolio-franquitom-api.deps.json
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/portfolio-franquitom-api.runtimeconfig.json
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/portfolio-franquitom-api.pdb
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Repos/portfolio-franquitom-api/portfolio-franquitom-api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
